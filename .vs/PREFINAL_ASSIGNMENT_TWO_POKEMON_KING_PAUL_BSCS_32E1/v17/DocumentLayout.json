@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D035CB3E-9712-4CCB-B1F2-CD42757BFF64}|PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj|e:\\college edrel\\college\\3rd year\\2nd sem\\cs elective\\prefinals\\prefinal_assignment_two_pokemon_king_paul_bscs_32e1\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D035CB3E-9712-4CCB-B1F2-CD42757BFF64}|PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj|solutionrelative:views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D035CB3E-9712-4CCB-B1F2-CD42757BFF64}|PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj|e:\\college edrel\\college\\3rd year\\2nd sem\\cs elective\\prefinals\\prefinal_assignment_two_pokemon_king_paul_bscs_32e1\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D035CB3E-9712-4CCB-B1F2-CD42757BFF64}|PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\Views\\Pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pokemon\\Index.cshtml",
+              "ToolTip": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pokemon\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T15:05:26.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "Models\\Pokemon.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Models\\Pokemon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:58:27.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T14:58:27.707Z"
             }
           ]
         }

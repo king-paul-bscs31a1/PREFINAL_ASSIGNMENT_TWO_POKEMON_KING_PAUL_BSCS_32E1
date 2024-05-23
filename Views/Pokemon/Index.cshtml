@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Pokemon List";
+    int totalPages = (int)Math.Ceiling((double)ViewBag.TotalCount / ViewBag.PageSize);
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<ul>
+    @foreach (var pokemon in Model)
+    {
+        <li>
+            <a href="@Url.Action("Details", "Pokemon", new { name = pokemon.Name })">@pokemon.Name</a>
+        </li>
+    }
+</ul>
+
+<div>
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })">Previous</a>
+    }
+
+    @for (int i = 1; i <= totalPages; i++)
+    {
+        <a href="@Url.Action("Index", new { page = i })">@i</a>
+    }
+
+    @if (ViewBag.CurrentPage < totalPages)
+    {
+        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })">Next</a>
+    }
+</div>
