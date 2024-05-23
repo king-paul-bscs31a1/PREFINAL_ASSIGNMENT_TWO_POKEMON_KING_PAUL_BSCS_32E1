@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj": {}
+  },
+  "projects": {
+    "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj",
+        "projectName": "PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1",
+        "projectPath": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj",
+        "packagesPath": "C:\\Users\\edre\\.nuget\\packages\\",
+        "outputPath": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
