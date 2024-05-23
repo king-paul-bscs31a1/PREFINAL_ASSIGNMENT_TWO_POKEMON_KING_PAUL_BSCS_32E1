@@ -6,7 +6,7 @@ using PokemonApp.Models;
 using System.Collections.Generic;
 using PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.Models;
 
-namespace PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.Controllers
+namespace PokemonApp.Controllers
 {
     public class PokemonController : Controller
     {
