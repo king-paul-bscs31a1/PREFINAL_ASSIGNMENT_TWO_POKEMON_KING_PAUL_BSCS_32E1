@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c26077fbef14d465e3b887b147dcad59ceff5b10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0b21a1459eabb63ac445a308bf0902e724530f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

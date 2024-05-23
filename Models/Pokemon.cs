@@ -1,4 +1,4 @@
-﻿namespace PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.Models
+﻿namespace PokemonApp.Models
 {
     public class Pokemon
     {

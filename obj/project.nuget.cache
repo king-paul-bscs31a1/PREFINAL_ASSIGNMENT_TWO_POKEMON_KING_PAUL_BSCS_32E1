@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "DRyCGsZ3O7+nZd0wvIBGP/ygBvKN5qN9Gb7WbqXgXRifeOKpHaRHWTxpo3Nn1jEsUWuGzj+qPGLxi7zKVWNmiA==",
+  "dgSpecHash": "Lwrwbh25J10ZQpxZEYnIctSyQL8v2QqS6GPbX1jild1krfQORBPOF5mP+sDXK6IWesFlf6ejsngO0QdVcZ7WKg==",
   "success": true,
   "projectFilePath": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1\\PREFINAL_ASSIGNMENT_TWO_POKEMON_KING_PAUL_BSCS_32E1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0\\microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\edre\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
